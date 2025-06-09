@@ -8,5 +8,5 @@ Arquivo: src/config.py
 
 ```python 
 PATH = "pasta origem arquivos"
-OUTPUT = "pasta destino arquivos"
+OUTPUT = "pasta destino arquivo unificado"
 ```
